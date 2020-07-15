@@ -1,1 +1,1 @@
-# link_prediction_competition
+# Link Prediction Competition in Python
